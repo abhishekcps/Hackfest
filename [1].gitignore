@@ -1,0 +1,8 @@
+*.a
+*.o
+*.so
+*.dll
+*.lib
+a.out
+*.jar
+*.class
